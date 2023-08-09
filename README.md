@@ -77,7 +77,7 @@ Computer Vision Based Authentication and Employee Monitoring System is designed 
 
 - Algorthim flowchart
    1. registration and model training flowchart
-       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/flowchart1.png)
+       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Flowchart1.png)
    2. Face detection and Recognition flowchart
       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/flowchart2.png)
   
