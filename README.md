@@ -20,6 +20,8 @@
 ## Abstract
 
 Computer Vision Based Authentication and Employee Monitoring System is a project that utilizes computer vision techniques for secure employee authentication and monitoring. The system employs facial recognition to provide access to the company campus or specific resources. By leveraging state-of-the-art computer vision technology, the system offers enhanced security compared to traditional password-based methods.
+
+
 ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Abstract.png)
 
 
