@@ -39,7 +39,7 @@ Computer Vision Based Authentication and Employee Monitoring System is designed 
       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/login_page.png)
 
 
-  3. Home page
+  3. Home page GUI
  
        ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Homepage.png)
 
