@@ -41,21 +41,33 @@ Computer Vision Based Authentication and Employee Monitoring System is designed 
 
   3. Home page
  
-  4. 
        ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Homepage.png)
+
      
   5. Registration User interface
-       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Registration.png)
-  6. Model training
+     
+       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/registration_page.png)
+
+     
+  7. Model training
+     
        ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/model_training.png)
+     
 - Access control using a servo motor-controlled door.
     ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/System_Architecture_Design1.png)
+  
   ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/System_Architecture_Design2.png)
+
+
+  
 - Guest mode for previously unregistered employees.
 - Two-factor authentication with password and time-bound one-time password (OTP) sent via email.
+  
      ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/email_verification.png)
 
+
 - Face Detection and Recognition
+  
   ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/face_detection_and_recognition.png)
 
   
