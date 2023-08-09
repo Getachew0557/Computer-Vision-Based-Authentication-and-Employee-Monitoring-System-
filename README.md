@@ -115,5 +115,5 @@ This project is licensed under the [Your License] License - see the [LICENSE](LI
 
 ## Contact
 
-For questions or inquiries, please contact [Getachew Getu] at getachewgetu2010gmail@gmail.com.
+For questions or inquiries the complate project, please contact [Getachew Getu] at getachewgetu2010gmail@gmail.com.
 
