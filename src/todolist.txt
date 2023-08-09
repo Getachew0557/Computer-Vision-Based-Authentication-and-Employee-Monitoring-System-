@@ -1,0 +1,46 @@
+====todays task==========
+    1.beautify the front page
+    2.link picture at the moment
+    3.link all the windows
+
+
+
+==today task===
+    1. Treaning method  --> using haracaskade ---------#done
+    2. recognizer method --> ----------------------------#done
+    3. Reformat Trained output -->if possible ----------------------------#done
+    4. Display the result in Attendance table --> creating coorelatione ----------------------------#done
+====next day ==========
+    5. link pic at the moment label
+    6. Generate report ----------------------------#done
+                     1. Table --- for today/current day only
+                     2. CsvFile ---for all days
+    7. additional featur
+            1. Gust mode emailing ---AAA gust activation password (OTP)
+            2. 2FA based interface
+                        -keypad interface
+                        -LCD interface
+                        - #remark tage if 2FA is used instade of face detactione
+            3. Display total list of emplloyes  -----------------------------------------------------#done
+            4. Remove employee -----------------------------------------------------#done
+                        -AAA notify employee  emaile-----------------------------------------------------#done
+                                like <dear mr x.
+                                              your profile is removed from the employee list,
+                                              you can't access the system  anymore>
+            5.
+=====interfacing fun======
+     8. keypadInput ----get input from keypad
+
+                    key * to Clear the input
+                        # to Save the input
+     9. lcdPrint  ----To print ON lcd optimize the chatacter of 16 and 2 line only
+
+
+== brothers ,please clarify  those couple of my blurry e  ===
+    1.when should guest mode enabled
+      how can a gust get access right? just a simple admins permission
+      or any other possible secure method if you have?
+    2.what are the possible reason to operate secondary authentication methods(OTP)
+      -1. no face found-- possible cause fot it?
+      -2. false-negative prediction -- how can we trace negative outcomes(trained employee predicted as UNKNOWN )
+      -3. any other?
