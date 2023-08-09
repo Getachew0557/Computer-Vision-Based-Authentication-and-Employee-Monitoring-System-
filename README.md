@@ -2,7 +2,7 @@
 The system is designed by combining facial recognition and two factor password authentication system.
 # Computer Vision Based Authentication and Employee Monitoring System
 
-![Project Image](![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Cover page.png)
+![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Homepage.png)
 )
 
 ## Table of Contents
