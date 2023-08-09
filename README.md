@@ -1,14 +1,13 @@
-# Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-
-The system is designed by combining facial recognition and two factor password authentication system.
 # Computer Vision Based Authentication and Employee Monitoring System
 
-![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Cover-page.png)
+![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Cover_page.png)
 )
+
+
 
 ## Table of Contents
 
 - [Abstract](#abstract)
-  ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Abstruct.png)
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Installation](#installation)
@@ -21,6 +20,8 @@ The system is designed by combining facial recognition and two factor password a
 ## Abstract
 
 Computer Vision Based Authentication and Employee Monitoring System is a project that utilizes computer vision techniques for secure employee authentication and monitoring. The system employs facial recognition to provide access to the company campus or specific resources. By leveraging state-of-the-art computer vision technology, the system offers enhanced security compared to traditional password-based methods.
+![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Abstract.png)
+
 
 ## Introduction
 
@@ -30,13 +31,40 @@ Computer Vision Based Authentication and Employee Monitoring System is designed 
 
 - Secure employee authentication using facial recognition.
 - Admin GUI for managing employee information, training the model, and monitoring system functionality.
+  1. Login GUI
+      ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/login_page.png)
+     
+  2. Home page
+       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Homepage.png)
+     
+  3. Registration User interface
+       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Registration.png)
+  4. Model training
+       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/model_training.png)
 - Access control using a servo motor-controlled door.
+    ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/System_Architecture_Design1.png)
+  ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/System_Architecture_Design2.png)
 - Guest mode for previously unregistered employees.
 - Two-factor authentication with password and time-bound one-time password (OTP) sent via email.
+     ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/email_verification.png)
 
+- Face Detection and Recognition
+  ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/face_detection_and_recognition.png)
+
+  
+## Methodology
+- System Design
+  ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Architecture_design.png)
+
+- Algorthim flowchart
+   1. registration and model training flowchart
+       ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/flowchart1.png)
+   2. Face detection and Recognition flowchart
+      ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/flowchart2.png)
+  
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone this repository: `git clone https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 
 ## Usage
