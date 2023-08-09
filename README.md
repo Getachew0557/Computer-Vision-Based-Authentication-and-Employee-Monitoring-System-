@@ -34,14 +34,19 @@ Computer Vision Based Authentication and Employee Monitoring System is designed 
 - Secure employee authentication using facial recognition.
 - Admin GUI for managing employee information, training the model, and monitoring system functionality.
   1. Login GUI
-      ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/login_page.png)
+ 
      
-  2. Home page
+      ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/login_page.png)
+
+
+  3. Home page
+ 
+  4. 
        ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Homepage.png)
      
-  3. Registration User interface
+  5. Registration User interface
        ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/Registration.png)
-  4. Model training
+  6. Model training
        ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/model_training.png)
 - Access control using a servo motor-controlled door.
     ![Project Image](https://github.com/Getachew0557/Computer-Vision-Based-Authentication-and-Employee-Monitoring-System-/raw/main/image/System_Architecture_Design1.png)
